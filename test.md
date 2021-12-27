@@ -1,7 +1,5 @@
 # Ismael Kherroubi Garcia
 
-See my CV [online](https://ismael-kg.github.io/CV/).
-
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaelkherroubi/)
 
 <i class="fa fa-camera-retro"></i> fa-camera-retro
