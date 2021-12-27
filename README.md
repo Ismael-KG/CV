@@ -4,8 +4,6 @@ See my CV [online](https://ismael-kg.github.io/CV/).
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaelkherroubi/)
 
-<i class="fa fa-camera-retro"></i> fa-camera-retro
-
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hermeneuticist)
 
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismael-KG)
