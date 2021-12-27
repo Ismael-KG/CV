@@ -8,6 +8,8 @@ See my CV [online](https://ismael-kg.github.io/CV/).
 
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismael-KG)
 
+<i class="fa fa-orcid" aria-hidden="true" title="ORCID"></i>
+
 ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 
 # Education
