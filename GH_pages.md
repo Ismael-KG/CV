@@ -99,7 +99,3 @@ ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 
 # Referees
 Available upon request (of course!)
-
-##### Testing Fork Awesome
-<i class="fa fa-battery-half" aria-hidden="true"></i>
-<span class="sr-only">Battery level: 50%</span>
