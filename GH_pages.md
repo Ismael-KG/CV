@@ -15,10 +15,12 @@ ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 ### London School of Economics & Political Science (LSE) – 2019-2022
 * Distinctions attained in Organisational Ethics and Philosophy of Race and Gender
 * Dissertation title: *On the Ontology of Multidisciplinary Epistemic Groups* (see the work-in-progress here: https://hackmd.io/IqPngF_XS1uDwDg50sE9Zw?view)
+
 ## BA Business Management & Administration
 ### University of Alicante – 2011-2015
 * Distinctions attained in World Economics, Marketing, and Economic Analysis & Outlook
 * Dissertation title: *Professors’ Leadership Styles and their Influence on Students* – due to resourcing limitations, I only got to propose a questionnaire (I did not gather responses)
+
 ## *Bachillerato*(Spanish A-Levels equivalent) in Social Sciences
 ### IES Marcos Zaragoza – 2009-2011
 * Graduated with first-class honours
@@ -39,6 +41,7 @@ ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 * Formed part of the “[enrichment student](https://www.turing.ac.uk/work-turing/studentships/enrichment)” recruitment panel in 2020
 * Developed research ethics training sessions that I delivered to principle investigators and early career researchers through the [Data Study Groups](https://www.turing.ac.uk/collaborate-turing/data-study-groups) programme
 * Worked closely with the principal investigators of many cutting-edge data science projects to ensure they were conducted thoughtfully and responsibly; amongst others, there were various [AI for Science and Government workpackages](https://www.turing.ac.uk/research/asg), the inception of the [online harms observatory](https://www.turing.ac.uk/blog/introducing-online-harms-observatory), the [trustworthy identity systems project](https://www.turing.ac.uk/research/research-projects/trustworthy-digital-infrastructure-identity-systems), and the [NHSx COVID app](https://www.turing.ac.uk/blog/demonstrating-impact-nhs-covid-19-app), 
+
 ## Change Maker: *Why are so few Disabled Students Studying At LSE?*
 **LSE – January to July 2020**
 * Designed research framework together with two fellow students to investigate LSE’s below-average attendance from disabled students
@@ -57,12 +60,14 @@ ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 * Facilitated a workshop on "Data Hazard labels" along with the project's co-PIs, Dr. Natalie Thurlby and Nina Di Cara (DOI: [10.5281/zenodo.5513976](https://github.com/very-good-science/data-hazards/tree/v0.1))
 * Familiarised myself with the co-PIs' [prompts](https://github.com/very-good-science/data-hazards/blob/ae2ecfad7f85fe48670ed6221a6563353d31e77b/images/worst-case-prompt.png) and the labels themselves
 * Gathered further feedback from the Turing's [Ethics Advisory Grou](https://www.turing.ac.uk/research/data-ethics/ethics-advisory-group) to support the refinement of the drafted labels
+
 ## Workshops on Supporting AI Research Ethics Committees
 **Ada Lovelace Institute – May 2021**
 * Part of a joint effort between the Ada Lovelace Institute, the University of Exeter and the Alan Turing Institute, gathering ideas from both academia and industry to understand the challenges research ethics committees face in data science, and provide recommendations.
 * Developed a dummy research project to provide an example research ethics application.
 * Assisted in the design of the two workshops, ensuring that sufficient attention was placed on both the philosophical underpinnings and the operational aspects of research ethics committees.
 * Facilitated breakout discussions.
+
 ## Postgraduate Philosophy Conference
 **LSE – September 2020**
 * Co-organised a two-day postgraduate conference with the support of the LSE's Department of Philosophy, Logic & Scientific Method
@@ -76,11 +81,13 @@ ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 * Designed job descriptions across multiple academic programmes and business teams
 * Reported on diversity data of different recruitment campaigns
 * Interviewed candidates for various positions, from events coordinators to associate-level data scientists
+
 ## HR Generalist
 **Royal Opera House – September 2018 to September 2019**
 * Coordinated high-volume recruitment campaigns
 * Supported large assessment days (up to 90 candidates)
 * Ran semi-annual ideation sessions with senior executives to reflect on the organisation’s culture and ways forward
+
 ## HR Administrator
 **Art Fund – February to August 2018**
 * Supported the learning & development strategy by curating reports on performance appraisals
