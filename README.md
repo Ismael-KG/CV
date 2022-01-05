@@ -25,7 +25,8 @@ ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 
 # Publications 
 * Supporting AI Research Ethics Committees (in collaboration with the Ada Lovelace Institute, the Alan Turing Institute and the University of Exeter, to be published early 2022)
-* Data Science, Meaning and Diversity (Kherroubi Garcia, 2021) *Towards Data Science*, available online: https://link.medium.com/eH3T1MkH8lb
+* Non-technical Intro to Digital Twins (Kherroubi Garcia, 2022) *Towards Data Science*, available online: https://towardsdatascience.com/non-technical-intro-to-digital-twins-d7401b01486#176b-987069fd223
+* Data Science, Meaning and Diversity (Kherroubi Garcia, 2021) *Towards Data Science*, available online: https://towardsdatascience.com/data-science-meaning-and-diversity-bb842602e55d
 * Introduction to Research Ethics (The Turing Way Community, 2020) *The Turing Way*, available online: https://the-turing-way.netlify.app/ethical-research/ethics-intro.html (originally a post on Medium: https://link.medium.com/DWdvCefH8lb)
 * Challenging Power in Data Science (Kherroubi Garcia, 2020) *The Alan Turing Institute Blog*, available online https://www.turing.ac.uk/blog/challenging-power-data-science
 
@@ -99,5 +100,3 @@ ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 
 # Referees
 Available upon request (of course!)
-
-{% include_relative GH_pages.md %}
