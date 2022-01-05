@@ -1,11 +1,11 @@
 <html>
 	<head>
 		<title>CSS P Selector</title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
 		<style>		
 			p {
 				text-align: left;
 				font-size: 18px;
-				background-color: lightblue;
 			}
 
 			#first {
@@ -14,21 +14,22 @@
 			}
 
 			#second{
-				text-align: left;
+			        text-align: left;
 				font-size: 24px;
 			        background-color: #c2c2c2;
 			}
 
 			#third {
-                        text-align: left;
-			font-size: 22px;
+                                text-align: left;
+			        font-size: 22px;
 			}
+			ul.a {
+                                list-style-type: square;
+                        }
 		</style>
 	</head>
-	<body>
+        <body>
 		<p id="first">Ismael Kherroubi Garcia</p>
-	</body>
-</html>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaelkherroubi/)
 
@@ -38,15 +39,19 @@
 
 ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 
-# Education
-## MSc Philosophy of the Social Sciences 
-### London School of Economics & Political Science (LSE) – 2019-2022
-* Distinctions attained in Organisational Ethics and Philosophy of Race and Gender
-* Dissertation title: *On the Ontology of Multidisciplinary Epistemic Groups* (see the work-in-progress here: https://hackmd.io/IqPngF_XS1uDwDg50sE9Zw?view)
-## BA Business Management & Administration
-### University of Alicante – 2011-2015
-* Distinctions attained in World Economics, Marketing, and Economic Analysis & Outlook
-* Dissertation title: *Professors’ Leadership Styles and their Influence on Students* – due to resourcing limitations, I only got to propose a questionnaire (I did not gather responses)
+                <p id="second"> Education </p>
+		<p id="third"> MSc Philosophy of the Social Sciences </p>
+		<p id="third"> London School of Economics & Political Science (LSE) – 2019-2022 </p>
+                <ul class="a">
+	                <li> Distinctions attained in Organisational Ethics and Philosophy of Race and Gender </li>
+                        <li> Dissertation title: *On the Ontology of Multidisciplinary Epistemic Groups* (see the work-in-progress here: https://hackmd.io/IqPngF_XS1uDwDg50sE9Zw?view) </li>
+		</u>
+		<p id="third"> BA Business Management & Administration </p>
+		<p id="third"> University of Alicante – 2011-2015 </p>
+                <ul class="a">
+	                <li> Distinctions attained in World Economics, Marketing, and Economic Analysis & Outlook </li>
+	                <li> Dissertation title: *Professors’ Leadership Styles and their Influence on Students* – due to resourcing limitations, I only got to propose a questionnaire (I did not gather responses) </li>
+		</ul>
 ## *Bachillerato*(Spanish A-Levels equivalent) in Social Sciences
 ### IES Marcos Zaragoza – 2009-2011
 * Graduated with first-class honours
@@ -128,5 +133,6 @@ ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 
 # Referees
 Available upon request (of course!)
+
 	</body>
 </html>
