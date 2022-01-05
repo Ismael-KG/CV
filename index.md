@@ -41,6 +41,7 @@
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismael-KG)
 
 ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
+		
 
         <p id="second"> Education </p>
 		<p id="third"> MSc Philosophy of the Social Sciences </p>
