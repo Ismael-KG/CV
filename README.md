@@ -99,3 +99,5 @@ ORCID: [0000-0002-6850-8375](https://orcid.org/0000-0002-6850-8375)
 
 # Referees
 Available upon request (of course!)
+
+{% include_relative GH_pages.md %}
