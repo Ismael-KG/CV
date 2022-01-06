@@ -48,14 +48,18 @@ ul.a {
 	height:10px;
 	background-color: #c2c2c2;
 }
-.gap-30 { 
+.gap-30 {
 	width:100%; 
 	height:30px;
 	background-color: #d42020;
 	margin-bottom: 0px;
 }
-.gap-5 { 
+.gap-5 {
 	width:100%; 
 	height:5px;
 	background-color: #d42020;
+}
+.gap-ul {
+	width:100%; 
+	height:10px;
 }
