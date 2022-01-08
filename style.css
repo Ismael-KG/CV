@@ -59,14 +59,13 @@
 }
 #macrosectiontext
 {
-    position:relative;
-    font:Arial, sans-serif;
-    text-align:center;
-    font-size:50px;
-    font-style: bold;
-    margin-top:245px;
-    opacity: 0.6;
-    background-color:transparent;
+	position: relative;
+	font-family: sans-serif;
+	text-align: left;
+	font-size: 22px;
+	font-weight: normal;
+	opacity: 0.6;
+	background-color: white;
 }
 #macrosectiontext A:link {text-decoration: none; color: white;}
 #macrosectiontext A:visited {text-decoration: none; color: white;}
