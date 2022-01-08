@@ -219,4 +219,6 @@ ul.a {
 	a:active {
 		color: #d42020;
 	}
+	body {
+		background-color: black;
 }
