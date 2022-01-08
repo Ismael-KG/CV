@@ -123,7 +123,7 @@ a:hover {
 a:active {
 	color: #d42020;
 }
-ul.a {
+ul {
 	font-size: 18px;
 	list-style-type: square;
 	margin-top: 2%;
@@ -220,4 +220,7 @@ ul.a {
 	}
 	body {
 		background-color: black;
+	ul {
+		color: white;
+	}
 }
