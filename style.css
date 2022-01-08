@@ -57,6 +57,22 @@
 		background-color: white;
 		padding: 10px;
 }
+#macrosectiontext
+{
+    position:relative;
+    font:Arial, sans-serif;
+    text-align:center;
+    font-size:50px;
+    font-style: bold;
+    margin-top:245px;
+    opacity: 0.6;
+    background-color:transparent;
+}
+#macrosectiontext A:link {text-decoration: none; color: white;}
+#macrosectiontext A:visited {text-decoration: none; color: white;}
+#macrosectiontext A:hover {text-decoration: none; color: white;}
+#macrosectiontext A:active {text-decoration: none; color: white;}
+
 /*–– Basic styling ––*/
 p {
 	text-align: left;
