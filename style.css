@@ -70,6 +70,7 @@
 /*–– Basic styling ––*/
 p {
 	text-align: left;
+	color: black;
 	font-size: 18px;
 	margin-top: 2%;
 	padding-left: 1%;
@@ -88,6 +89,7 @@ h1 {
 }
 h2 {
 	text-align: left;
+	color: black;
 	font-size: 24px;
 	background-color: #c2c2c2;
 	font-weight: bold;
@@ -99,6 +101,7 @@ h2 {
 }
 h3 {
 	text-align: left;
+	color: black;
 	font-size: 22px;
 	font-weight: bold;
 	padding-left: 1%;
@@ -134,16 +137,43 @@ ul.a {
 }
 /*––Adapting to different screens__*/
 @media screen and (min-device-width: 1200px) and (-webkit-min-device-pixel-ratio: 1) {
-	width: 55%;
+	.wrapper {}
+		.sidebar {
+			width: 15vw;;
+		}
+		.main {
+			width: 75vw;
+		}
 }
 @media only screen and (min-device-width: 700px) and (max-device-width: 1199px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 60%;
+	.wrapper {}
+		.sidebar {
+			width: 15vw;;
+		}
+		.main {
+			width: 75vw;
+		}
 }
 @media only screen and (min-device-width: 700px) and (max-device-width: 1199px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 80%;
+	.wrapper {}
+		.sidebar {
+			width: 15vw;;
+		}
+		.main {
+			width: 75vw;
+		}
 }
 @media only screen and (max-device-width: 699px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 80%;
+	.wrapper {}
+		.sidebar {
+			width: 17vw;;
+		}
+		.main {
+			width: 80vw;
+		}
 }
 @media only screen and (max-device-width: 699px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 95%;
@@ -168,5 +198,25 @@ ul.a {
 	}
 	.main {
 		width: 90%;
+	}
+}
+@media (prefers-color-scheme: dark) {
+	p {
+		color: white;
+	}
+	h3 {
+		color: white;
+	}
+	a:link {
+		color: white;
+	}
+	a:visited {
+		color: #d42020;
+	}
+	a:hover {
+		color: blue;
+	}
+	a:active {
+		color: #d42020;
 	}
 }
