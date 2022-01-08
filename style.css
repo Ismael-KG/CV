@@ -45,7 +45,7 @@
 
 	.sidebar {
 		width: 25%;
-		height: 25vh;
+		height: 50vh;
 		position: -webkit-sticky;
 		position: sticky;
 		background-color: #d42020;
@@ -94,7 +94,7 @@ h3 {
 }
 h4 {
 	text-align: left;
-	font-size: 22px;
+	font-size: 9vh;
 	font-weight: normal;
 	padding-left: 1%;
 }
