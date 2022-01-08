@@ -1,3 +1,4 @@
+/*––Adapting to different screens__*/
 @media screen and (min-device-width: 1200px) and (-webkit-min-device-pixel-ratio: 1) {
 	width: 55%;
 }
@@ -28,6 +29,36 @@
 		font-size: 4vw;
 	}
 }
+/*–– Side-bar settings ––*/
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+	.main,
+	.sidebar {
+	border: 3px solid black;
+	padding: 15px;
+	background-color: #fff;
+}
+
+	.main {
+		width: 60%;
+		height: 150vh;
+}
+
+	.sidebar {
+		width: 25%;
+		height: 25vh;
+		position: -webkit-sticky;
+		position: sticky;
+		top: 0;
+}
+	body {
+		background-color: #ccc;
+		font-family: sans-serif;
+		padding: 10px;
+}
+/*–– Basic styling ––*/
 p {
 	text-align: left;
 	font-size: 18px;
