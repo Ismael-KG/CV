@@ -32,30 +32,37 @@
 /*–– Side-bar settings ––*/
 .wrapper {
   display: flex;
-  justify-content: space-between;
-}
-	.main,
-	.sidebar {
-	padding: 15px;
+  justify-content: space-evenly;
 }
 	.main {
 		width: 60%;
 		height: 100%;
+    top: 0px;
 }
-
 	.sidebar {
 		width: 25%;
 		height: 50vh;
 		position: -webkit-sticky;
 		position: sticky;
 		background-color: #d42020;
-		top: 0;
+    top: 0;
+    padding: 1%;
 }
 	body {
-		background-color: #c2c2c2;
 		font-family: sans-serif;
 		background-color: white;
-		padding: 10px;
+		padding: 0px;
+}
+h4 {
+	text-align: left;
+	color: white;
+	font-size: 22px;
+	font-weight: normal;
+	padding-left: 1%;
+  padding-right: 1%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  line-height: 1.6;
 }
 #macrosectiontext
 {
@@ -67,17 +74,50 @@
 	opacity: 1;
 	background-color: none;
 }
-#macrosectiontext A:link {color: white; font-size: 22px; text-align: left; font-weight: normal;}
-#macrosectiontext A:visited {color: white; font-size: 22px; text-align: left; font-weight: normal;}
-#macrosectiontext A:hover {color: white; font-size: 22px; text-align: left; font-weight: normal;}
-#macrosectiontext A:active {color: white; font-size: 22px; text-align: left; font-weight: normal;}
+#macrosectiontext A:link {
+  color: white;
+  font-size: 22px;
+  text-align: left;
+  font-weight: normal;
+}
+#macrosectiontext A:visited {
+  color: white;
+  font-size: 22px;
+  text-align: left;
+  font-weight: normal;
+}
+#macrosectiontext A:hover {
+  color: blue; 
+  font-size: 22px;
+  text-align: left;
+  font-weight: normal;
+}
+#macrosectiontext A:active {
+  color: white;
+  font-size: 22px;
+  text-align: left;
+  font-weight: normal;
+}
+.container-grid {
+  display: grid;
+  grid-template-columns: 20px 50px; /*columns widths*/
+  height: 40vh;
+}
 
+  .col-1 {
+    width: 5px;
+  }
+
+  .col-2 {
+    width: 20px;
+  }
 /*–– Basic styling ––*/
 p {
 	text-align: left;
 	font-size: 18px;
 	margin-top: 2%;
 	padding-left: 1%;
+  line-height: 1.6;
 }
 h1 {
 	background-color: #d42020;
@@ -107,13 +147,6 @@ h3 {
 	font-weight: bold;
 	padding-left: 1%;
 }
-h4 {
-	text-align: left;
-	color: white;
-	font-size: 22px;
-	font-weight: normal;
-	padding-left: 1%;
-}
 em {
 	font-style: italic;
 }
@@ -137,6 +170,7 @@ ul.a {
 	list-style-type: square;
 	margin-top: 2%;
 	margin-bottom: 2%;
+  line-height: 1.6;
 }
 .gap-ul {
 	width:100%; 
