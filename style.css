@@ -78,7 +78,7 @@ ul.a {
 @media screen and (min-device-width: 1200px) and (-webkit-min-device-pixel-ratio: 1) {
 		width: 55%;
 }
-@media only screen and (min-device-width: 700px) and (max-device-width: 1199px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) and (min-device-width: 1200px) and (-webkit-min-device-pixel-ratio: 1) {
+@media only screen and (min-device-width: 700px) and (max-device-width: 1199px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
 		width: 60%;
 }
 @media only screen and (min-device-width: 700px) and (max-device-width: 1199px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
