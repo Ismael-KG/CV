@@ -126,7 +126,7 @@ ul {
 			width: 75vw;
 		}
 }
-@media only screen and (min-device-width: 700px) and (max-device-width: 1199px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (min-device-width: 800px) and (max-device-width: 1199px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 60%;
 	.wrapper {}
 		.sidebar {
@@ -136,7 +136,7 @@ ul {
 			width: 75vw;
 		}
 }
-@media only screen and (min-device-width: 700px) and (max-device-width: 1199px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (min-device-width: 800px) and (max-device-width: 1199px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 80%;
 	.wrapper {}
 		.sidebar {
@@ -146,7 +146,7 @@ ul {
 			width: 75vw;
 		}
 }
-@media only screen and (max-device-width: 699px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (max-device-width: 799px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 80%;
 	.wrapper {}
 		.sidebar {
@@ -156,7 +156,7 @@ ul {
 			width: 80vw;
 		}
 }
-@media only screen and (max-device-width: 699px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (max-device-width: 799px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 95%;
 	h1 {
 		font-size: 8vw;
