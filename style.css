@@ -112,6 +112,9 @@ em {
 b {
 	font-style: bold;
 }
+.notbold{
+	font-weight: normal;
+}
 a:link {
 	color: black;
 }
