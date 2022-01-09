@@ -2,26 +2,26 @@
 .wrapper {
 	display: flex;
 	justify-content: space-evenly;
-}
+	}
 	.main {
 		width: 60%;
 		height: 100%;
 		top: 0px;
-}
+	}
 	.sidebar {
 		width: 25%;
-		height: 50vh;
+		height: 100%;
 		position: -webkit-sticky;
 		position: sticky;
 		background-color: #d42020;
-		top: 0;
+		top: 4%;
 		padding: 1%;
-}
+	}
 	body {
 		font-family: sans-serif;
 		background-color: white;
 		padding: 0px;
-}
+	}
 	h4 {
 		text-align: left;
 		color: white;
@@ -32,9 +32,8 @@
 		margin-top: 5px;
 		margin-bottom: 5px;
 		line-height: 1.6;
-}
-#macrosectiontext
-{
+	}
+#macrosectiontext {
 	position: relative;
 	font-family: sans-serif;
 	text-align: left;
@@ -43,10 +42,10 @@
 	background-color: none;
 }
 #macrosectiontext A {
-  color: white;
-  text-align: left;
-  font-weight: normal;
-}
+	color: white;
+	text-align: left;
+	font-weight: normal;
+	}
 /*–– Basic styling ––*/
 p {
 	text-align: left;
