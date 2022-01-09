@@ -32,39 +32,18 @@
 		margin-top: 5px;
 		margin-bottom: 5px;
 		line-height: 1.6;
-		max-width: 22%;
 }
 #macrosectiontext
 {
 	position: relative;
 	font-family: sans-serif;
 	text-align: left;
-	font-size: 22px;
 	font-weight: normal;
 	opacity: 1;
 	background-color: none;
 }
-#macrosectiontext A:link {
+#macrosectiontext A {
   color: white;
-  font-size: 22px;
-  text-align: left;
-  font-weight: normal;
-}
-#macrosectiontext A:visited {
-  color: white;
-  font-size: 22px;
-  text-align: left;
-  font-weight: normal;
-}
-#macrosectiontext A:hover {
-  color: blue; 
-  font-size: 22px;
-  text-align: left;
-  font-weight: normal;
-}
-#macrosectiontext A:active {
-  color: white;
-  font-size: 22px;
   text-align: left;
   font-weight: normal;
 }
