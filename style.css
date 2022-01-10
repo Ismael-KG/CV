@@ -150,7 +150,7 @@ ul {
 	width: 80%;
 	.wrapper {}
 		.sidebar {
-			width: 17vw;;
+			display: none;;
 		}
 		.main {
 			width: 80vw;
