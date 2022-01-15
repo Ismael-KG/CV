@@ -13,7 +13,7 @@
 		height: 100%;
 		position: -webkit-sticky;
 		position: sticky;
-		background-color: #d42020;
+		background-color: #002FA7;
 		top: 1vw;
 		margin-top: 1vw;
 		padding: 1%;
@@ -55,7 +55,7 @@ p {
 	line-height: 1.6;
 }
 h1 {
-	background-color: #d42020;
+	background-color: #002FA7;
 	color: white;
 	font-size: 36px;
 	margin-top: 1vw;
@@ -97,13 +97,13 @@ a:link {
 	color: black;
 }
 a:visited {
-	color: #d42020;
+	color: #002FA7;
 }
 a:hover {
 	color: blue;
 }
 a:active {
-	color: #d42020;
+	color: #002FA7;
 }
 ul {
 	font-size: 18px;
@@ -205,5 +205,11 @@ ul {
 	}
 	ul {
 		color: white;
+	}
+	.sidebar {
+		background-color: #862d86;
+	}
+	h1 {
+		background-color: #862d86;
 	}
 }
