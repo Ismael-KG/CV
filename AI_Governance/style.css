@@ -161,6 +161,10 @@ ul {
 		.main {
 			width: 75vw;
 		}
+	.nextto {
+		float: center;
+		display: block;
+	}
 	.skillsblock {
 		float: center;
 		display: block;
@@ -175,6 +179,10 @@ ul {
 		.main {
 			width: 80vw;
 		}
+	.nextto {
+		float: center;
+		display: block;
+	}
 	.skillsblock {
 		float: center;
 		display: block;
