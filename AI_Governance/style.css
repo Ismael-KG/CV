@@ -1,0 +1,209 @@
+/*–– Side-bar settings ––*/
+.wrapper {
+	display: flex;
+	justify-content: space-evenly;
+	}
+	.main {
+		width: 60%;
+		height: 100%;
+		top: 0px;
+	}
+	.sidebar {
+		width: 25%;
+		height: 100%;
+		position: -webkit-sticky;
+		position: sticky;
+		background-color: #d42020;
+		top: 1vw;
+		margin-top: 1vw;
+		padding: 1%;
+	}
+	body {
+		font-family: sans-serif;
+		background-color: white;
+		padding: 0px;
+	}
+	h4 {
+		text-align: left;
+		color: white;
+		font-size: 22px;
+		font-weight: normal;
+		padding-left: 1%;
+		padding-right: 1%;
+		margin: 5px;
+		line-height: 1.6;
+	}
+#macrosectiontext {
+	position: relative;
+	font-family: sans-serif;
+	text-align: left;
+	font-weight: normal;
+	opacity: 1;
+	background-color: none;
+}
+#macrosectiontext A {
+	color: white;
+	text-align: left;
+	font-weight: normal;
+	}
+/*–– Basic styling ––*/
+p {
+	text-align: left;
+	font-size: 18px;
+	margin-top: 2%;
+	padding-left: 1%;
+	line-height: 1.6;
+}
+h1 {
+	background-color: #d42020;
+	color: white;
+	font-size: 36px;
+	margin-top: 1vw;
+	margin-bottom: 2%;
+	padding-top: 5%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+h2 {
+	text-align: left;
+	color: black;
+	font-size: 24px;
+	background-color: #c2c2c2;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	padding-left: 1%;
+}
+h3 {
+	text-align: left;
+	color: black;
+	font-size: 22px;
+	font-weight: bold;
+	padding-left: 1%;
+}
+em {
+	font-style: italic;
+}
+b {
+	font-style: bold;
+}
+.notbold{
+	font-weight: normal;
+}
+a:link {
+	color: black;
+}
+a:visited {
+	color: #d42020;
+}
+a:hover {
+	color: blue;
+}
+a:active {
+	color: #d42020;
+}
+ul {
+	font-size: 18px;
+	list-style-type: square;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	line-height: 1.6;
+}
+.gap-ul {
+	width:100%; 
+	height:10px;
+}
+/*––Adapting to different screens__*/
+@media screen and (min-device-width: 1200px) and (-webkit-min-device-pixel-ratio: 1) {
+	.wrapper {}
+		.sidebar {
+			width: 15vw;;
+		}
+		.main {
+			width: 75vw;
+		}
+}
+@media only screen and (min-device-width: 800px) and (max-device-width: 1199px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+	width: 60%;
+	.wrapper {}
+		.sidebar {
+			width: 15vw;;
+		}
+		.main {
+			width: 75vw;
+		}
+}
+@media only screen and (min-device-width: 800px) and (max-device-width: 1199px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+	width: 80%;
+	.wrapper {}
+		.sidebar {
+			width: 15vw;;
+		}
+		.main {
+			width: 75vw;
+		}
+}
+@media only screen and (max-device-width: 799px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+	width: 80%;
+	.wrapper {}
+		.sidebar {
+			display: none;;
+		}
+		.main {
+			width: 80vw;
+		}
+}
+@media only screen and (max-device-width: 799px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+	width: 95%;
+	h1 {
+		font-size: 8vw;
+	}
+	h2 {
+		font-size: 6vw;
+	}
+	h3 {
+		font-size: 5vw;
+	}
+	h4 {
+		font-size: 4vw;
+	}
+	p {
+		font-size: 4vw;
+	}
+	.wrapper {}
+	.sidebar {
+		display: none;
+	}
+	.main {
+		width: 90%;
+	}
+}
+@media (prefers-color-scheme: dark) {
+	p {
+		color: white;
+	}
+	h3 {
+		color: white;
+	}
+	a:link {
+		color: #c2c2c2;
+	}
+	a:visited {
+		color: #d42020;
+	}
+	a:hover {
+		color: blue;
+	}
+	a:active {
+		color: #d42020;
+	}
+	body {
+		background-color: black;
+	}
+	ul {
+		color: white;
+	}
+}
