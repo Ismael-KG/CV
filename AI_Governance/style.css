@@ -161,6 +161,10 @@ ul {
 		.main {
 			width: 75vw;
 		}
+	.skillsblock {
+		float: center;
+		display: block;
+	}
 }
 @media only screen and (max-device-width: 799px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 80%;
@@ -171,6 +175,10 @@ ul {
 		.main {
 			width: 80vw;
 		}
+	.skillsblock {
+		float: center;
+		display: block;
+	}
 }
 @media only screen and (max-device-width: 799px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 95%;
