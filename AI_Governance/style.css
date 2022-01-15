@@ -59,7 +59,7 @@ h1 {
 	color: white;
 	font-size: 36px;
 	margin-top: 1vw;
-	margin-bottom: 2%;
+	margin-bottom: 0%;
 	padding-top: 5%;
 	padding-bottom: 1%;
 	padding-left: 1%;
@@ -73,8 +73,8 @@ h2 {
 	font-weight: bold;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	padding-top: 0.5%;
-	padding-bottom: 0.5%;
+	padding-top: 1%;
+	padding-bottom: 1%;
 	padding-left: 1%;
 }
 h3 {
@@ -83,6 +83,7 @@ h3 {
 	font-size: 22px;
 	font-weight: bold;
 	padding-left: 1%;
+	margin-top: 1%;
 }
 em {
 	font-style: italic;
@@ -128,8 +129,9 @@ ul {
 	background-color: #002FA7;
 	top: 1vw;
 	margin-top: 1vw;
-	margin-bottom: 0px;
-	margin-right: 0px;
+	margin-bottom: 1vw;
+	margin-right: 0%;
+	margin-left: 1%;
 	padding: 1%;
 }
 /*––Adapting to different screens__*/
