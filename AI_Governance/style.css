@@ -118,8 +118,8 @@ ul {
 }
 /*--Skills blocks by bullet points--*/
 .nextto{
-  display: inline-block;
-  width: 70%;
+	display: inline-block;
+	width: 70%;
 }
 .skillsblock {
 	float: right;
@@ -161,14 +161,6 @@ ul {
 		.main {
 			width: 75vw;
 		}
-	.nextto {
-		float: center;
-		display: block;
-	}
-	.skillsblock {
-		float: center;
-		display: block;
-	}
 }
 @media only screen and (max-device-width: 799px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
 	width: 80%;
@@ -182,10 +174,12 @@ ul {
 	.nextto {
 		float: center;
 		display: block;
+		width: 100%;
 	}
 	.skillsblock {
 		float: center;
 		display: block;
+		width: 100%;
 	}
 }
 @media only screen and (max-device-width: 799px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
@@ -211,6 +205,16 @@ ul {
 	}
 	.main {
 		width: 90%;
+	}
+	.nextto {
+		float: center;
+		display: block;
+		width: 100%;
+	}
+	.skillsblock {
+		float: center;
+		display: block;
+		width: 100%;
 	}
 }
 @media (prefers-color-scheme: dark) {
