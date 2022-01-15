@@ -1,6 +1,6 @@
 # Ismael Kherroubi Garcia
 
-See my CV adapted for [academic positions](https://ismael-kg.github.io/CV/) or [non-academic positions](https://ismael-kg.github.io/CV/AI_Governance/).
+See my CV adapted for [academic partnerships](https://ismael-kg.github.io/CV/) or [non-academic partnerships](https://ismael-kg.github.io/CV/AI_Governance/).
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaelkherroubi/)
 
